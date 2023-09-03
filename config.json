@@ -1,0 +1,7 @@
+{
+    "clientID":"1086853940181737552",
+    "clientSecret":"QJNmy_BfdDlQgeR4EbMhILMG4KtHO0A6",
+    "domain":"http://localhost:3000/",
+    "callback":"http://localhost:3000/callback",
+    "invite":"https://discord.com/api/oauth2/authorize?client_id=1086853940181737552&permissions=8&scope=bot%20applications.commands"
+}
